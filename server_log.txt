@@ -1,0 +1,7 @@
+2026-09-22 08:00:12 INFO  [System] Server boot completed successfully.
+2026-09-22 08:05:44 INFO  [Network] Interface eth0 assigned IP 192.168.1.45.
+2026-09-22 08:12:01 WARN  [Database] High memory utilization detected (82%).
+2026-09-22 08:15:30 ERROR [Auth] Failed login attempt for user 'admin' from IP 192.168.1.102.
+2026-09-22 08:22:15 INFO  [Storage] Scheduled backup job completed.
+2026-09-22 08:31:02 ERROR [Database] Connection timeout while querying user records.
+2026-09-22 08:40:00 INFO  [System] System heartbeat OK.
